@@ -1,3 +1,9 @@
+Trevis CI exercise.
+
+[![Build Status](https://travis-ci.com/morokuz/dw-demo-app.svg?branch=master)](https://travis-ci.com/morokuz/dw-demo-app)
+
+Forked from: https://github.com/dduportal/dw-demo-app
+
 # DropWizard Demo Application
 
 Welcome to the DropWizard Demo Application !
