@@ -1,4 +1,4 @@
-Trevis CI exercise.
+Travis CI exercise.
 
 [![Build Status](https://travis-ci.com/morokuz/dw-demo-app.svg?branch=master)](https://travis-ci.com/morokuz/dw-demo-app)
 
